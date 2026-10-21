@@ -1,0 +1,45 @@
+// what is typescript
+// let student: string = "khan";
+// let age: number = 20;
+
+// console.log(student);
+// console.log(age + 1);
+
+
+// interface students{
+//     name: string;
+//     age: number;
+// }
+
+// const s: students = {name: "Ali", age: 21};
+
+// console.log(s);
+
+
+
+// interface students{
+//     name: string;
+//     age?: number;
+// }
+
+// const s: students = {name: "Ali"};
+
+// console.log(s);
+
+
+
+// practical example
+
+// interface product{
+//     id: number;
+//     prodName: string;
+//     price: number;
+// }
+
+// const products: product[] = [
+//     {id: 1, prodName: "Think pad", price: 20000.00},
+//     {id: 2, prodName: "Mac book", price: 45000.00},
+//     {id: 3, prodName: "Dell", price: 30000.00}
+// ]
+
+// console.log(products);
